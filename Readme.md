@@ -28,10 +28,10 @@ URL для запроса на детальной странице. ID бере�
 
 ## Запись экрана 
 
-[![Demo record](ScreenshotsForReadme/demo.gif)](ScreenshotsForReadme/demo.gif)
+| [![Demo record](ScreenshotsForReadme/demo.gif)](ScreenshotsForReadme/demo.gif) |
 
 ## Главный экран и экран товара
 
 | AdvertisementsView      | AdvertisementView       |
 | ----------------------- | ----------------------- |
-| ![Screenshot 1](ScreenshotsForReadme/AdvertisementsView.png) | ![Screenshot 2](ScreenshotsForReadme/AdvertisementView.png) |
+| ![Screenshot 1](ScreenshotsForReadme/Advertisements.png) | ![Screenshot 2](ScreenshotsForReadme/AdvertisementDetailed.png) |
